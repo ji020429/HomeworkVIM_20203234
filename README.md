@@ -22,6 +22,7 @@ open source SW homework
 ## 2. simple replacements
 #### 1) 과제2 풀이
 > :%s/sublime\\|emacs/vim/g -> enter -> ZZ 
+
 = sublime나 emacs이면 vim으로 String 치환
 * :%s/change할 문자\\|change할 문자/change 문자
 * g: 전체문장에 적용 (**없을 경우 line마다 1개 적용됨**)
