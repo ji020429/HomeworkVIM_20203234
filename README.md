@@ -57,6 +57,10 @@ open source SW homework
 ![3hh](https://user-images.githubusercontent.com/94359749/144551246-26aa27ee-1436-470b-ac14-100b6b3fee5c.gif)
 
 
+
+![3h](https://user-images.githubusercontent.com/94359749/144553027-6763a7ef-dac1-40c6-bc4b-bab9de3b7569.gif)
+
+
 ----
 ## 4. Plotting some variables in python
 #### 1) 과제4 풀이
