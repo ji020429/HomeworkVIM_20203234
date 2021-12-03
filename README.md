@@ -61,7 +61,7 @@ open source SW homework
 
 
 #### 2) 과제4 풀이 gif
-![4h](https://user-images.githubusercontent.com/94359749/144548894-92de116d-1cac-46b4-9732-8c10ad32bda3.gif)
+![4hh](https://user-images.githubusercontent.com/94359749/144551307-3dafee61-090b-4476-b897-28418786c20a.gif)
 
 
 ----
