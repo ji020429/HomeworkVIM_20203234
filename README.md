@@ -28,6 +28,7 @@ open source SW homework
 
 
 #### 2) 과제2 풀이 gif
+![2h](https://user-images.githubusercontent.com/94359749/144548704-eeaf10ae-97b4-45bc-848f-43cb1bba9215.gif)
 
 
 ----
