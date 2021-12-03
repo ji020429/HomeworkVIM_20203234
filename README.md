@@ -80,7 +80,7 @@ open source SW homework
 
 
 #### 2) 과제5 풀이 gif
-![5h](https://user-images.githubusercontent.com/94359749/144548994-3dd0620f-6ff3-424d-b676-d6d98362139f.gif)
+![5hh](https://user-images.githubusercontent.com/94359749/144551348-ecc695bd-3194-4f6b-87a4-14a6f9cbbdd2.gif)
 
 
 ---
