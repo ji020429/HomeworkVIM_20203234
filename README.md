@@ -3,7 +3,7 @@ open source SW homework
 
 
 ----
-### 1. Add quotes to ansible playbook
+## 1. Add quotes to ansible playbook
 #### 1) 과제1 풀이
 > G -> W -> i -> " -> end -> " -> esc -> ZZ
 * G: 파일의 마지막 줄로 이동
@@ -19,7 +19,7 @@ open source SW homework
 
 
 ----
-### 2. simple replacements
+## 2. simple replacements
 #### 1) 과제2 풀이
 > :%s/sublime\|emacs/vim/g -> enter -> ZZ
 > sublime나 emacs이면 vim으로 String 치환
@@ -32,7 +32,7 @@ open source SW homework
 
 
 ----
-### 3. Satisfy the go linter
+## 3. Satisfy the go linter
 #### 1) 과제3 풀이
 > /V -> enter -> yw -> O -> //공백 -> esc -> p -> a -> TODO -> esc -> /D -> enter -> yw -> O -> //공백 -> esc -> p -> a -> TODO -> esc -> ZZ
 * /text : text 찾기 ex) /V: V 찾기, /D: D 찾기
@@ -49,7 +49,7 @@ open source SW homework
 
 
 ----
-### 4. Plotting some variables in python
+## 4. Plotting some variables in python
 #### 1) 과제4 풀이
 > :%s/y1/abs(y1) -> enter -> :5s/1/4/g -> enter -> :4s/1/3/g -> enter -> :3s/1/2/g -> enter -> /k -> enter -> r -> b -> j -> r -> r -> j -> r-> g-> ZZ
 * :%s/y1/abs(y1): y1 문자열을 abs(y1) 문자열로 String 치환
@@ -65,7 +65,7 @@ open source SW homework
 
 
 ----
-### 5. Python dataclasses
+## 5. Python dataclasses
 #### 1) 과제5 풀이
 > M -> k -> yw -> G -> b -> p -> a -> ,name,age,score -> esc -> ZZ
 * M: 현재 화면 기준 중간으로 이동
