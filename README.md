@@ -51,5 +51,28 @@ open source SW homework
 > :%s/y1/abs(y1) -> enter -> :5s/1/4/g -> enter -> :4s/1/3/g -> enter -> :3s/1/2/g -> enter -> /k -> enter -> r -> b -> j -> r -> r -> j -> r-> g-> ZZ
 * :%s/y1/abs(y1): y1 문자열을 abs(y1) 문자열로 String 치환
 * :(바꿀 문자열이 있는 줄)s/change할 문자/change 문자: 그 줄에서 String 치환 ex) :5s/1/4/g: 5 번째 줄에서 숫자1을 모두 숫자 4로 바꿈
+* /text : text 찾기 ex) /V: V 찾기, /D: D 찾기
 * r: 한글자를 바꿀 때 입력 모드
 * j: 방향키 아래와 같음
+* ZZ: vim 저장 후 종료 (=:x,:wq)
+
+
+#### 2) 과제4 풀이 gif
+
+
+----
+### 5. Python dataclasses
+#### 1) 과제5 풀이
+> M -> k -> yw -> G -> b -> p -> a -> ,name,age,score -> esc -> ZZ
+* M: 현재 화면 기준 중간으로 이동
+* k: 방향키 위와 같음
+* yw: 현재 word의 끝까지 복사
+* G: 파일의 마지막 줄로 이동
+* b: 단어 단위 뒤로 이동
+* p: 현재위치 다음에 붙여넣기
+* a: 현재 위치 다음 칸에서 입력 모드 시작
+* esc: 일반 모드로 전환
+* ZZ: vim 저장 후 종료 (=:x,:wq)
+
+
+#### 2) 과제5 풀이 gif
