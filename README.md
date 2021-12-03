@@ -77,6 +77,10 @@ open source SW homework
 ![4hh](https://user-images.githubusercontent.com/94359749/144551307-3dafee61-090b-4476-b897-28418786c20a.gif)
 
 
+
+![4h](https://user-images.githubusercontent.com/94359749/144553159-d324c441-186a-4298-a163-fb052369cf46.gif)
+
+
 ----
 ## 5. Python dataclasses
 #### 1) 과제5 풀이
