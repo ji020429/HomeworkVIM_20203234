@@ -14,12 +14,12 @@ open source SW homework
 * ZZ: vim 저장 후 종료 **(=:x,:wq)**
 
 
-#### 2) 과제1 풀이 gif
+#### 2) 과제1 풀이 gif 
 ![1hh](https://user-images.githubusercontent.com/94359749/144551133-0bd64b48-8d9e-4f23-ad4b-f6258e8c92e2.gif)
 
 
-<1번 실행하는 gif>
-![1h](https://user-images.githubusercontent.com/94359749/144552639-33901692-05aa-4944-a9ba-74aa2fa81f6f.gif)ㅍ
+
+![1h](https://user-images.githubusercontent.com/94359749/144552639-33901692-05aa-4944-a9ba-74aa2fa81f6f.gif)
 
 
 ----
