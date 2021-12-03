@@ -15,7 +15,8 @@ open source SW homework
 
 
 #### 2) 과제1 풀이 gif
-https://github.com/ji020429/HomeworkVIM_20203234/issues/1#issue-1070195966
+![image](https://user-images.githubusercontent.com/94359749/144548009-edb51c9f-13eb-4b88-9317-665740ef2bc8.png)
+
 
 ----
 ### 2. simple replacements
