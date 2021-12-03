@@ -64,6 +64,9 @@ open source SW homework
 ![3h](https://user-images.githubusercontent.com/94359749/144553027-6763a7ef-dac1-40c6-bc4b-bab9de3b7569.gif)
 
 
+시도: 직접 입력하는 것 대신 문자열을 복사하여 붙여넣음
+
+
 ----
 ## 4. Plotting some variables in python
 #### 1) 과제4 풀이
@@ -82,6 +85,9 @@ open source SW homework
 
 
 ![4h](https://user-images.githubusercontent.com/94359749/144553159-d324c441-186a-4298-a163-fb052369cf46.gif)
+
+
+시도: 같은 라인에 있는 숫자를 한번에 바꿔주고 문자 하나는 r로 치환해줌
 
 
 ----
