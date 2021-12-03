@@ -55,7 +55,7 @@ open source SW homework
 > :%s/y1/abs(y1) -> enter -> :5s/1/4/g -> enter -> :4s/1/3/g -> enter -> :3s/1/2/g -> enter -> /k -> enter -> r -> b -> j -> r -> r -> j -> r-> g-> ZZ
 * :%s/y1/abs(y1): y1 문자열을 abs(y1) 문자열로 String 치환
 * :(바꿀 문자열이 있는 줄)s/change할 문자/change 문자: 그 줄에서 String 치환 ex) :5s/1/4/g: 5 번째 줄에서 숫자1을 모두 숫자 4로 바꿈
-* /text : text 찾기 ex) /V: V 찾기, /D: D 찾기
+* /text : text 찾기 ex) /k: k 찾기
 * r: 한글자를 바꿀 때 입력 모드
 * j: 방향키 아래와 같음
 * ZZ: vim 저장 후 종료 (=:x,:wq)
