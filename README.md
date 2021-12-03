@@ -36,6 +36,10 @@ open source SW homework
 ![2hh](https://user-images.githubusercontent.com/94359749/144551199-2456b3bf-3b73-4aad-83e1-46d80310a6e6.gif)
 
 
+
+![2h](https://user-images.githubusercontent.com/94359749/144552909-7d3d5d5f-8914-4187-b725-944ab21fc3e5.gif)
+
+
 ----
 ## 3. Satisfy the go linter
 #### 1) 과제3 풀이
