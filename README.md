@@ -1,5 +1,6 @@
 # HomeworkVIM_20203234
 open source SW homework
+2개의 gif 존재, 첫 번째 gif 반복 재생, 두 번째 gif 1번 재생 후 결과창
 
 
 ----
