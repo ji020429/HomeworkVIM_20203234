@@ -11,7 +11,7 @@ open source SW homework
 * i: 현재 위치에서 입력 모드 시작
 * end: 라인 끝으로 이동
 * esc: 일반 모드로 돌아옴
-* ZZ: vim 저장 후 종료 (=:x,:wq)
+* ZZ: vim 저장 후 종료 **(=:x,:wq)**
 
 
 #### 2) 과제1 풀이 gif
