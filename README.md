@@ -83,5 +83,5 @@ open source SW homework
 #### 2) 과제5 풀이 gif
 ![5hh](https://user-images.githubusercontent.com/94359749/144551348-ecc695bd-3194-4f6b-87a4-14a6f9cbbdd2.gif)
 
-
+(시도: M 단축키로 yw 복사해서 단어 student_id,name,age,score를 붙여넣는 것보다, 결과: 직접 입력하는 것이 더 입력수가 작았음. 그래서 가장 긴 student_id만 붙여넣기하고 다른 문자열은 직접 입력해줌.)
 ---
